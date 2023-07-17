@@ -7,3 +7,6 @@
 [submodule "BTSMRaveLights/lib/FastLED"]
 	path = BTSMRaveLights/lib/FastLED
 	url = git@github.com:FastLED/FastLED.git
+[submodule "BTSMRaveLights/lib/arduino-fft"]
+	path = BTSMRaveLights/lib/arduino-fft
+	url = git@github.com:kosme/arduinoFFT.git
